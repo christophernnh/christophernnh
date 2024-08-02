@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B!+My+name+is+Christopher+Nathan+Hendris." alt="Typing SVG" /></a>
 
 ###
-<div width="100%"><img width="100%" src="https://i.pinimg.com/originals/28/a1/e3/28a1e36191eb43fae5347624b17edf10.gif"></img></div>
+<div width="100%"><img width="80%" src="https://i.pinimg.com/originals/28/a1/e3/28a1e36191eb43fae5347624b17edf10.gif"></img></div>
 
 
 ###

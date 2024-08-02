@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Christopher</h2>
+<h2 align="left">Hi 👋! My name is Christopher Nathan Hendris</h2>
 
 ###
 
@@ -50,14 +50,6 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <a href="https://www.instagram.com/christophernnh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21sj5k6mxvrvl4h6pmpazz7xq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21sj5k6mxvrvl4h6pmpazz7xq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
